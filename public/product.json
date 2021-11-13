@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "KTM RC 200 Mileage",
+        "price": "7000$",
+        "details": "As of now there is no official update from the brands end. So, we would request you to wait for official announcement.",
+        "img": "https://media.zigcdn.com/media/model/2020/Mar/ktm-rc-200-right-side-view_360x240.jpg"
+    },
+    {
+        "id": 2,
+        "name": "KTM RC 390",
+        "price": "2.76 LAKH",
+        "details": "The ex-showroom price of KTM RC 390 in Gaya starts from Rs. 2.76 Lakh. The RC 390 comes single variant that is RC 390 BS6.",
+        "img": "https://media.zigcdn.com/media/model/2020/Mar/ktm-rc-390-bs6-right-side-view_360x240.jpg"
+    },
+    {
+        "id": 3,
+        "name": "KTM 125 Duke",
+        "price": " Rs. 1.38-1.38 Lakh",
+        "details": "The smallest motorcycle in KTM India's line-up, 125 Duke, is now BS6 compliant.",
+        "img": "https://images.financialexpress.com/2018/11/4-25.jpg?w=420&h=280&imflag=true"
+    },
+    {
+        "id": 4,
+        "name": "KTM 200 Duke",
+        "price": "Rs 2.99 lakh",
+        "details": "The India-made KTM 200 Duke has been launched in the US very recently as the most affordable KTM motorcycle.",
+        "img": "https://images.financialexpress.com/2020/08/ktm-200-duke.jpg"
+    },
+    {
+        "id": 5,
+        "name": "KTM 250 Duke BS6",
+        "price": "Rs 2.9 lakh",
+        "details": "As of now there is no official update from the brands end. So, we would request you to wait for official announcement. ",
+        "img": "https://static.toiimg.com/thumb/msid-77366964,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+        "id": 6,
+        "name": "KTM Electric Superbike",
+        "price": "Rs 3.5 lakh",
+        "details": "It has been a decade since the KTM RC8 debuted at the Austrian brand’s answer to the superbike question. Perhaps ahead of its time,",
+        "img": "https://www.asphaltandrubber.com/wp-content/uploads/2020/08/KTM-RC-Electric-motorcycle-concept-Mohit-Solanki-07.jpg"
+    },
+    {
+        "id": 7,
+        "name": " Electric motorcycles",
+        "price": "8000$",
+        "details": "Italian motorcycle manufacturer Ducati will be producing electric motorbikes in serial production. Speaking at a Motostundent event in Spain, Ducati CEO,",
+        "img": "https://www.electrive.com/wp-content/uploads/2019/01/ducati-zero-concept-electric-motorcycle.png"
+    },
+    {
+        "id": 8,
+        "name": "KTM 85 SX",
+        "price": "3000$",
+        "details": "KTM’s no-apologies “Ready to Race” mantra is essentially true. ",
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/octane/UOVJAEMGPRDRBDXHLLXZ3CU444.jpg"
+    },
+    {
+        "id": 9,
+        "name": "KTM 790 Duke",
+        "price": "Rs 4 lakh",
+        "details": "KTM 790 Duke is slated to be launched in India next week – on 23 September,",
+        "img": "https://imgk.timesnownews.com/story/1568988961-KTM_790_Duke_leaning.jpg?tr=w-400,h-300,fo-auto"
+    },
+    {
+        "id": 10,
+        "name": "KTM RC 390",
+        "price": "Rs 3.5 lakh",
+        "details": "Recently on a Sunday ride, a fellow rider on the new Royal Enfield Interceptor 650 indulged",
+        "img": "https://www.motorbeam.com/wp-content/uploads/2014-KTM-RC-390-Front-1200x675.jpg"
+    },
+    {
+        "id": 11,
+        "name": " KTM RC 890 ",
+        "price": "6.5 lakh",
+        "details": "KTM RC 890 is an upcoming supersport bike by KTM that is expected to launch soon.",
+        "img": "https://www.mototechindia.com/wp-content/uploads/2021/03/ktm-rc-890.jpg"
+    },{
+        "id": 12,
+        "name": "Rc 125",
+        "price": "Rs 1.5 lakh",
+        "details": "Adventure is the most expensive bike with a price tag of ₹ 3.1 Lakh. Select a KTM bike to find out its latest  ",
+        "img": "https://motors.stylemixthemes.com/classified-four/wp-content/uploads/sites/13/2015/12/71-798x466.jpg"
+    }
+
+
+]
